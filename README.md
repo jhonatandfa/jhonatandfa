@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Jhonatan Freitas 👋
 ##
 
-- 🔭 Hoje trabalho como Suporte técnico
-- 🌱 Estudando Python
+- Hoje eu trabalho como Suporte técnico e nas horas vagas estudo python com objetivo de mudar de área.
 
 <div align="center">
   <a href="https://github.com/jhonatandfa">
